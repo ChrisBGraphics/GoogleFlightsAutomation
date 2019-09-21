@@ -17,3 +17,5 @@ This holds helper functions that are used in main to mkae writing code easier an
 
 utils.js
 This holds functions that can generate valkues for testing purposes.
+
+Notes: node_modules could not be uploaded due to some files being too large for GitHub
