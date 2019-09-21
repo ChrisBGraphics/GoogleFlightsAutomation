@@ -1,3 +1,7 @@
+/*
+* flight-page.js
+* Holds the selectors used in the Google flights page
+*/
 module.exports = {
     FLIGHTS_BODY: "#flt-app > div.gws-flights__flex-column.gws-flights__flex-grow > main.gws-flights__flex-column.gws-flights__active-tab.gws-flights__home-page",
     FLIGHT_SEARCHFORM: "#flt-app > div.gws-flights__flex-column.gws-flights__flex-grow > main.gws-flights__flex-column.gws-flights__active-tab.gws-flights__home-page > div:nth-child(3) > div > div.gws-flights-form__form-card",
